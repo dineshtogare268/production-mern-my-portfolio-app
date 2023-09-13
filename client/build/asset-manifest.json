@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93b18547.css",
+    "main.js": "/static/js/main.77843b73.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/project1.png": "/static/media/project1.332098341fe34a605e62.png",
+    "static/media/my-pic.png": "/static/media/my-pic.d9cbe0200a92a463e19f.png",
+    "static/media/Dinesh_Togare_Resume.pdf": "/static/media/Dinesh_Togare_Resume.06a94255ab5c03121500.pdf",
+    "static/media/profile-image.JPG": "/static/media/profile-image.9185f567069d43573127.JPG",
+    "static/media/contact-us.avif": "/static/media/contact-us.ad5740beba6a2ae7536a.avif",
+    "index.html": "/index.html",
+    "main.93b18547.css.map": "/static/css/main.93b18547.css.map",
+    "main.77843b73.js.map": "/static/js/main.77843b73.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b18547.css",
+    "static/js/main.77843b73.js"
+  ]
+}
